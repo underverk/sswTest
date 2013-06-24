@@ -5,6 +5,7 @@ Tool for the Open SmartWatch IDE to check wether the toolchain is up-to-date.
 
 Download the compiled version of the tool here:
 
+http://underverk.blushingboy.org/sswTest_v0001.zip
 
 To use it, make sure you:
 
